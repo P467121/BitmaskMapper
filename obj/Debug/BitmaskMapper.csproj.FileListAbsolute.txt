@@ -1,0 +1,11 @@
+C:\Users\peter\source\repos\BitmaskMapper\bin\Debug\BitmaskMapper.exe.config
+C:\Users\peter\source\repos\BitmaskMapper\bin\Debug\BitmaskMapper.exe
+C:\Users\peter\source\repos\BitmaskMapper\bin\Debug\BitmaskMapper.pdb
+C:\Users\peter\source\repos\BitmaskMapper\obj\Debug\BitmaskMapper.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\BitmaskMapper\obj\Debug\BitmaskMapper.Properties.Resources.resources
+C:\Users\peter\source\repos\BitmaskMapper\obj\Debug\BitmaskMapper.csproj.GenerateResource.cache
+C:\Users\peter\source\repos\BitmaskMapper\obj\Debug\BitmaskMapper.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\BitmaskMapper\obj\Debug\BitmaskMapper.exe
+C:\Users\peter\source\repos\BitmaskMapper\obj\Debug\BitmaskMapper.pdb
+C:\Users\peter\source\repos\BitmaskMapper\obj\Debug\BitmaskMapper.exe.config
+C:\Users\peter\source\repos\BitmaskMapper\obj\Debug\BitmaskMapper.Form1.resources
