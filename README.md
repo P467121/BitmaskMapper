@@ -2,7 +2,6 @@
 
 A Windows Forms application for visualizing and converting between binary, hexadecimal, and decimal representations of bitmasks.
 
-![Bitmask Mapper Screenshot](screenshot.png) *(add a screenshot later)*
 
 ## Features
 
